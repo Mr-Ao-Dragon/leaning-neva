@@ -1,0 +1,8 @@
+component Main(start any) (stop any) {
+	nodes {
+
+	}
+	net {
+		:start -> :stop
+	}
+}
